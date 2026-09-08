@@ -1,0 +1,1 @@
+Current README file to have a not empty repository
