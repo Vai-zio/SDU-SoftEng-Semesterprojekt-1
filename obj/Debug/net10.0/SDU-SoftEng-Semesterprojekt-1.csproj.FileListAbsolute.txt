@@ -1,0 +1,15 @@
+C:\Users\Vai\Desktop\SDU\Semesterprojekt\SDU-SoftEng-Semesterprojekt-1\bin\Debug\net10.0\SDU-SoftEng-Semesterprojekt-1.exe
+C:\Users\Vai\Desktop\SDU\Semesterprojekt\SDU-SoftEng-Semesterprojekt-1\bin\Debug\net10.0\SDU-SoftEng-Semesterprojekt-1.deps.json
+C:\Users\Vai\Desktop\SDU\Semesterprojekt\SDU-SoftEng-Semesterprojekt-1\bin\Debug\net10.0\SDU-SoftEng-Semesterprojekt-1.runtimeconfig.json
+C:\Users\Vai\Desktop\SDU\Semesterprojekt\SDU-SoftEng-Semesterprojekt-1\bin\Debug\net10.0\SDU-SoftEng-Semesterprojekt-1.dll
+C:\Users\Vai\Desktop\SDU\Semesterprojekt\SDU-SoftEng-Semesterprojekt-1\bin\Debug\net10.0\SDU-SoftEng-Semesterprojekt-1.pdb
+C:\Users\Vai\Desktop\SDU\Semesterprojekt\SDU-SoftEng-Semesterprojekt-1\obj\Debug\net10.0\SDU-SoftEng-Semesterprojekt-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vai\Desktop\SDU\Semesterprojekt\SDU-SoftEng-Semesterprojekt-1\obj\Debug\net10.0\SDU-SoftEng-Semesterprojekt-1.AssemblyInfoInputs.cache
+C:\Users\Vai\Desktop\SDU\Semesterprojekt\SDU-SoftEng-Semesterprojekt-1\obj\Debug\net10.0\SDU-SoftEng-Semesterprojekt-1.AssemblyInfo.cs
+C:\Users\Vai\Desktop\SDU\Semesterprojekt\SDU-SoftEng-Semesterprojekt-1\obj\Debug\net10.0\SDU-SoftEng-Semesterprojekt-1.csproj.CoreCompileInputs.cache
+C:\Users\Vai\Desktop\SDU\Semesterprojekt\SDU-SoftEng-Semesterprojekt-1\obj\Debug\net10.0\SDU-SoftEng-Semesterprojekt-1.sourcelink.json
+C:\Users\Vai\Desktop\SDU\Semesterprojekt\SDU-SoftEng-Semesterprojekt-1\obj\Debug\net10.0\SDU-SoftEng-Semesterprojekt-1.dll
+C:\Users\Vai\Desktop\SDU\Semesterprojekt\SDU-SoftEng-Semesterprojekt-1\obj\Debug\net10.0\refint\SDU-SoftEng-Semesterprojekt-1.dll
+C:\Users\Vai\Desktop\SDU\Semesterprojekt\SDU-SoftEng-Semesterprojekt-1\obj\Debug\net10.0\SDU-SoftEng-Semesterprojekt-1.pdb
+C:\Users\Vai\Desktop\SDU\Semesterprojekt\SDU-SoftEng-Semesterprojekt-1\obj\Debug\net10.0\SDU-SoftEng-Semesterprojekt-1.genruntimeconfig.cache
+C:\Users\Vai\Desktop\SDU\Semesterprojekt\SDU-SoftEng-Semesterprojekt-1\obj\Debug\net10.0\ref\SDU-SoftEng-Semesterprojekt-1.dll
