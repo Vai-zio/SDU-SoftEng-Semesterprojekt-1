@@ -1,4 +1,4 @@
-﻿
+﻿/*
 //Animations Movement in Terminal
 //pt in test phase
 // Current task, I want to make a working gridline that moves with the arrowkeys and displays in the terminal, that means a grid animation display
@@ -137,3 +137,4 @@ class Program
         
     }
 }
+*/
